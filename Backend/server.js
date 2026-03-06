@@ -12,7 +12,7 @@ const exportRoutes = require("./routes/exportRoutes");
 const app = express();
 
 const allowedOrigins = [
-  "https://ai-powered-e-book.vercel.app/",
+  "https://ai-powered-e-book.vercel.app",
   "http://localhost:5173"
 ];
 
