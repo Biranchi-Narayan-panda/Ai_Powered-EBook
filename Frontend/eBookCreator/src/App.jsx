@@ -4,7 +4,7 @@ import ProtectedRoute from "./components/auth/ProtectedRoute";
 import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
 import SignupPage from "./pages/SignupPage";
-import DashboardPage  from "./pages/DashboardPage";
+import DashboardPage  from "./pages/DashBoardPage";
 import EditorPage  from "./pages/EditorPage";
 import ViewBookPage  from "./pages/ViewBookPage";
 import ProfilePage  from "./pages/ProfilePage";
