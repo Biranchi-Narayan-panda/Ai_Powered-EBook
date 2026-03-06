@@ -53,7 +53,7 @@ const ConfirmationModal = ({ isOpen, onClose, onConfirm, title, message }) => {
 };  
 
 
-const DashboardPage = ()=>{
+const DashBoardPage = ()=>{
   const [books, setBooks] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   // const [isDeleteModalOpen, setIsDeleteModalOpen] = useState(false);
@@ -171,4 +171,4 @@ const DashboardPage = ()=>{
   )
 };
 
-export default DashboardPage;
+export default DashBoardPage;
